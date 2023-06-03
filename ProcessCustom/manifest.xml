@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool>
+  <ApiVersion>6.0</ApiVersion>
+  <Id>com.mogue.MogueSampleProcess</Id>
+  <Version>1.0</Version>
+  <Name>Mogue Sample Process</Name>
+  <Author>mogue</Author>
+  <Description>Adds custom scripts to the process menu in the sample editor.</Description>
+  <Category>Sample Editor</Category>
+</RenoiseScriptingTool>
